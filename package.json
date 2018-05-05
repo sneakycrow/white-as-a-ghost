@@ -23,5 +23,6 @@
             "Minimal"
         ]
     },
-    "homepage": "https://github.com/sneakycrow/white-as-a-ghost"
+    "homepage": "https://github.com/sneakycrow/white-as-a-ghost",
+    "devDependencies": {}
 }

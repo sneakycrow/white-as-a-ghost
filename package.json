@@ -1,0 +1,24 @@
+{
+    "name": "white-as-a-ghost",
+    "description": "A very minimal theme for ghost blog platform",
+    "version": "0.5.0",
+    "engines": {
+        "ghost": ">=1.0.0"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Zachary E Sohovich",
+        "email": "zach@sneakycrow.io",
+        "url": "https://www.sneakycrow.io"
+    },
+    "config": {
+        "posts_per_page": 10
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal"
+        ]
+    },
+    "homepage": "https://github.com/sneakycrow/white-as-a-ghost"
+}
